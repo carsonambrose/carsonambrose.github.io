@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 247.39 116.29">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 36px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #231f20;
+        font-family: BasenjiVariable-Italic, 'Basenji Variable';
+        font-style: italic;
+        font-variation-settings: 'wght' 400, 'ital' 12;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-2 {
+        font-size: 85.84px;
+      }
+
+      .cls-6 {
+        letter-spacing: -.05em;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(1.11 92.25)"><tspan x="0" y="0">S</tspan><tspan class="cls-6" x="48.67" y="0">U</tspan><tspan class="cls-4" x="107.73" y="0">SHI</tspan></text>
+  <text class="cls-1" transform="translate(17.02 30.08)"><tspan x="0" y="0">b</tspan><tspan class="cls-5" x="22.82" y="0">e</tspan><tspan class="cls-3" x="42.16" y="0">st</tspan></text>
+</svg>
